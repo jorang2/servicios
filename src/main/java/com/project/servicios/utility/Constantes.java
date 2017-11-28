@@ -19,3 +19,6 @@ public class Constantes {
     public static final String DESCONTAR = "-";
     public static final String ADICIONAR = "+";
 }
+
+
+//comentario prueba
